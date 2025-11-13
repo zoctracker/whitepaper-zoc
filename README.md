@@ -33,3 +33,12 @@ Nous accueillons les contributions de la communauté sur les points suivants :
 * Validation empirique des critères (X et Y).
 * Développement du pipeline d'indexation (voir Section 3.1 du White Paper).
 * Implémentation des modèles de classification ZOC.
+
+## Licences
+
+Ce dépôt utilise une structure de double licence pour distinguer le code de la documentation.
+
+* **Documentation (White Paper ZOC)** : L'intégralité du White Paper est distribuée sous la licence **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Vous êtes libre d'utiliser, de partager et d'adapter ce travail, à condition de créditer explicitement **ZOC Tracker**.
+* **Code du ZOC Tracker (futur)** : Le code source de l'outil ZOC Tracker, une fois publié dans ce dépôt, sera distribué sous la licence **MIT**.
+
+[Lien vers le PDF : Insérer le lien direct ici]
