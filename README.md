@@ -1,45 +1,53 @@
-# whitepaper-zoc
-The White Paper for the ZOC (Zombie On Chain) Tracker methodology.
+# ZOC Tracker White Paper (Version 1.1.0)
 
-# ZOC Tracker : Un outil d'analyse et de classification des contrats intelligents "Zombie On Chain"
+The official White Paper for the ZOC (Zombie On Chain) Tracker methodology.
 
-Le projet **ZOC Tracker** introduit une nouvelle taxonomie et une méthodologie pour identifier les contrats intelligents déployés mais fonctionnellement abandonnés ou économiquement négligeables sur la blockchain.
+**ZOC Tracker:** An analytical tool for classifying and tracking "Zombie On Chain" smart contracts.
 
-## Le Concept ZOC (Zombie On Chain)
+The ZOC Tracker project introduces a new taxonomy and methodology to identify deployed smart contracts that are functionally abandoned or economically negligible on the blockchain.
 
-Le terme ZOC est utilisé pour désigner le **code persistant mais non fonctionnel**. Ce phénomène est une conséquence structurelle de l'immuabilité de la blockchain, conduisant à l'accumulation de "débris numériques".
+### The ZOC Concept (Zombie On Chain)
 
-Un contrat est classifié ZOC s'il répond à deux critères quantifiables :
+The term ZOC is used to denote **persistent yet non-functional code**. This phenomenon is a structural consequence of blockchain immutability, leading to the accumulation of "digital debris."
 
-1.  **Critère Temporel (X) :** Une inactivité externe continue d'au moins **neuf mois** (hypothèse de travail initiale).
-2.  **Critère de Valeur (Y) :** Une valeur économique totale **négligeable** (Balance native < 0.001 ETH et actifs secondaires < 10 USD - seuils ajustables).
+A contract is classified as a ZOC if it meets two quantifiable criteria:
 
-## Le White Paper Complet
+* **Temporal Criterion (X):** A continuous external inactivity of at least **nine months** (initial working assumption).
+* **Value Criterion (Y):** A **negligible total economic value** (Native Balance < 0.001 ETH and secondary assets < 10 USD – thresholds are adjustable).
 
-Pour la définition formelle des critères (y compris la classification ZOC : Inerte, Verrouillé, Dangereux, Abandonné) et la méthodologie détaillée de l'algorithme, veuillez consulter notre article technique complet.
+### Advanced Exclusion Criteria (V1.1.0 Update)
 
-**[Lire le White Paper Complet : WHITEPAPER_ZOC.pdf]**
+To ensure high analytical precision, the ZOC methodology incorporates **advanced exclusion criteria** to differentiate genuine ZOCs from **strategically dormant contracts** (e.g., Multisigs awaiting quorum, unexpired Vesting contracts, or essential Proxy/Library contracts).
 
-## Objectifs du ZOC Tracker
+### ZOC Tracker Objectives
 
-L'outil analytique vise à transformer ce diagnostic en opportunité :
-* **Audit de Chaîne :** Fournir une métrique honnête de la vitalité des réseaux.
-* **Sécurité et Éducation :** Identifier les contrats dangereux (failles connues) ou verrouillés (fonds piégés) pour l'audit.
-* **Récupération de Trafic :** Identifier les **ZOC Abandonnés** qui reçoivent encore des appels résiduels, proposant des solutions (ex: implémentation d'un contrat proxy) pour rediriger ce trafic vers des protocoles sains.
+The analytical tool aims to turn this diagnosis into an opportunity:
 
-## Contribution
+* **Chain Audit:** Provide an honest metric of network vitality by filtering out abandoned code.
+* **Security & Education:** Identify dangerous contracts (known exploits) or locked contracts (trapped funds) for audit.
+* **Traffic Recovery:** Identify **Abandoned ZOCs** that still receive residual calls, proposing solutions (e.g., proxy contract implementation) to redirect this traffic to healthy protocols.
 
-Nous accueillons les contributions de la communauté sur les points suivants :
-* Validation empirique des critères (X et Y).
-* Développement du pipeline d'indexation (voir Section 3.1 du White Paper).
-* Implémentation des modèles de classification ZOC.
+### Contribution
 
-## Licences
+We welcome community contributions on the following areas:
 
-Ce dépôt utilise une structure de double licence pour distinguer le code de la documentation.
+* Empirical validation of criteria (X and Y).
+* Development of the indexing pipeline (see Section 3.1 of the White Paper).
+* Implementation of ZOC classification models.
 
-* **Documentation (White Paper ZOC)** : L'intégralité du White Paper est distribuée sous la licence **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Vous êtes libre d'utiliser, de partager et d'adapter ce travail, à condition de créditer explicitement **ZOC Tracker**.
-* **Code du ZOC Tracker (futur)** : Le code source de l'outil ZOC Tracker, une fois publié dans ce dépôt, sera distribué sous la licence **MIT**.
+### Licensing
 
-* [White Paper ZOC (Français)](https://github.com/zoctracker/whitepaper-zoc/raw/main/WHITEPAPER_ZOC.pdf)
-* [White Paper ZOC (English)](https://github.com/zoctracker/whitepaper-zoc/raw/main/WHITEPAPER_ZOC_EN.pdf)
+This repository uses a dual-licensing structure to distinguish between code and documentation.
+
+**Documentation (ZOC White Paper):** The entirety of the White Paper is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to use, share, and adapt this work, provided explicit credit is given to the ZOC Tracker methodology.
+
+**ZOC Tracker Code (Future):** The source code for the ZOC Tracker tool, once published in this repository, will be distributed under the **MIT License**.
+
+***
+
+### Official Versions
+
+Please check the [latest official Release (v1.1.0)](https://github.com/zoctracker/whitepaper-zoc/releases) for documentation and official artifacts.
+
+* [White Paper ZOC (English)](https://github.com/zoctracker/whitepaper-zoc/blob/main/WHITEPAPER_ZOC_Eng.pdf)
+* [White Paper ZOC (Français)](https://github.com/zoctracker/whitepaper-zoc/blob/main/WHITEPAPER_ZOC_Fr.pdf)
