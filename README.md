@@ -1,56 +1,50 @@
-# ZOC Tracker White Paper (Version 1.2.0)
+# ✍️ ZOC Tracker / Z-Terminal: Codifying and Standardizing Chain Hygiene 🤖
 
-The official White Paper for the ZOC (Zombie On Chain) methodology and the **Analytical Data Ingestion Platform (ADIP)** architecture.
+**Formalize the Failure. Clean the Pipe!**
 
-**ZOC Tracker:** A specialized infrastructure for quantifying and tracking "Zombie On Chain" smart contracts. The user interface and brand identity are known as **Z-Terminal**.
+The **ZOC Tracker** is the first Analytical Data Ingestion Platform (ADIP) to **codify and standardize** the taxonomy required to measure **Digital Debris**—the massive, unquantified accumulation of obsolete code (**ZOCs**) on the EVM ledger.
 
-The ZOC Tracker project introduces a new taxonomy and methodology to identify deployed smart contracts that are **functionally abandoned** or **economically negligible** on the blockchain.
+Our mission is to establish the **Chain Hygiene** standard, ensuring the intellectual **paternity** of these critical new metrics and protocols.
 
-### The ZOC Concept (Zombie On Chain)
+---
 
-The term ZOC is used to denote **persistent yet non-functional code** (Digital Debris). This phenomenon is a structural consequence of blockchain immutability, leading to the accumulation of "digital debris."
+## 🧠 Core Intellectual Property & Standardization (V1.2.1)
 
-A contract is classified as a ZOC if it meets two quantifiable criteria:
+The conceptual core of our work is the **ZOC Taxonomy (Zombie On Chain)**, which acts as a **definitive protocol for network health**. The execution of the ADIP pipeline (Technical Architecture) is designed solely to validate and maintain the rigor of this protocol.
 
-* **Temporal Criterion (X):** A continuous external inactivity of at least **nine months** (initial working assumption).
-* **Value Criterion (Y):** A **negligible total economic value** (Native Balance < 0.001 ETH and secondary assets < 10 USD – thresholds are adjustable).
+### Taxonomy Evolution
+| Version | Update Focus | Conceptual Impact |
+| :--- | :--- | :--- |
+| **V1.2.0** | **Finalized Core Definition & ADIP Concept** | Established the **ZOC Score (0-100)** as the industry's quantifiable metric for network risk. Codified **Criterion X** (9 months inactivity) and **Criterion Y** (economic threshold < $10 USD). |
+| **V1.2.1** | **Methodological Rigor & Data Enrichment** | **Reinforced Paternity** by integrating advanced metrics: **Code Complexity** (Bytecode Size, Function Count) and **Operational Metrics** (Gas Used) to refine the exclusion logic and ensure the scientific integrity of the ZOC Score. |
 
-### Advanced Methodology & Risk Quantification
+---
 
-To ensure high analytical precision, the ZOC methodology incorporates **advanced exclusion criteria** (introduced in V1.1.0) to differentiate genuine ZOCs from **strategically dormant contracts** (e.g., Multisigs awaiting quorum, unexpired Vesting contracts, or essential Proxy/Library contracts).
+## ⚙️ Technical Execution: The ADIP Pipeline
 
-**V1.2.0 Key Update:** The system quantifies risk using the **ZOC Score (0-100)**, a metric that combines Danger, Impact, and Obsolescence for immediate prioritization of audit targets.
+The technical architecture is the **proof of concept** that validates the feasibility and massive scalability of the ZOC Taxonomy. The **€115,000 budget** is justified by the need to execute this complex Big Data process.
 
-### ZOC Tracker Architecture and Objectives
+| Component | Role | Strategic Rationale (Execution) |
+| :--- | :--- | :--- |
+| **Pipeline Core** | High-performance, concurrent data ingestion. | Built in **Go (Golang)** to **execute** optimized **Batch Inserts** and **manage Goroutines** for rapid EVM history processing. |
+| **Data Source** | Full historical data access for mass ingestion. | **Alchemy Enhanced APIs** are critical to **process** the entire EVM history archive, validating the initial taxonomy against the complete complete dataset. |
+| **Storage & Query** | Analytical database for massive OLAP queries. | **ClickHouse** is used to **host** the massive dataset and provide the instantaneous query performance required for generating the ZOC Score. |
+| **Logic Layer** | Complex classification, value calculation, and risk scoring. | **Python** (Web3.py, CoinGecko API) **applies** Criterion Y and the advanced V1.2.1 exclusion logic. |
 
-The analytical tool aims to turn this diagnosis into an opportunity, built on the core **ADIP** architecture:
+---
 
-* **ADIP (Platform for Analytical Data Ingestion):** Infrastructure powered by **Go** (for concurrent ingestion) and **ClickHouse** (for massive analytical storage) to process the entire EVM history.
-* **Chain Audit:** Provide an honest metric of network vitality by filtering out abandoned code.
-* **Security & Education:** Identify dangerous contracts and locked contracts, creating the largest **Failure Data Repository** for audit tools.
-* **Traffic Recovery:** Identify **Abandoned ZOCs** that still receive residual calls to redirect this traffic to healthy protocols.
+## 🤝 Founding Team Opportunity
 
-### Contribution
+We are actively recruiting founding talent to execute the MVP plan, which is structured in three clear milestones supported by a dedicated €115,000 budget.
 
-We welcome community contributions on the following areas:
+**URGENT NEED: Lead Go Engineer / Data Delivery Manager**
 
-* Empirical validation of criteria (X and Y) and the **ZOC Score** model.
-* Development of the indexing pipeline (see Section 3.1 of the White Paper).
-* Implementation of ZOC classification models.
+If you are passionate about the mission of **standardizing network health** and the technical challenge of **massively scalable EVM data engineering**, we want to hear from you.
 
-### Licensing
+**Join the Fight! Clean the Pipe!**
 
-This repository uses a dual-licensing structure to distinguish between code and documentation.
+[Link to White Paper V1.2.1 (English PDF)]
 
-**Documentation (ZOC White Paper):** The entirety of the White Paper is distributed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. You are free to use, share, and adapt this work, provided explicit credit is given to the ZOC Tracker methodology.
+[Link to White Paper V1.2.1 (French PDF)]
 
-**ZOC Tracker Code (Future):** The source code for the ZOC Tracker tool, once published in this repository, will be distributed under the **MIT License**.
-
-***
-
-### Official Versions
-
-Please check the [latest official Release (v1.2.0)](https://github.com/zoctracker/whitepaper-zoc/releases) for documentation and official artifacts.
-
-* [White Paper ZOC (English)](https://github.com/zoctracker/whitepaper-zoc/blob/main/WHITEPAPER_ZOC_Eng.pdf)
-* [White Paper ZOC (Français)](https://github.com/zoctracker/whitepaper-zoc/blob/main/WHITEPAPER_ZOC_Fr.pdf)
+[Your Contact Email]
