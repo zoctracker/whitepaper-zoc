@@ -43,8 +43,6 @@ If you are passionate about the mission of **standardizing network health** and 
 
 **Join the Fight! Clean the Pipe!**
 
-[Link to White Paper V1.2.1 (English PDF)]
-
-[Link to White Paper V1.2.1 (French PDF)]
-
-[Your Contact Email]
+[Link to White Paper V1.2.1 (English PDF)] https://github.com/zoctracker/whitepaper-zoc/blob/ecdc7dcf3f9bb656965b063bdf31e3c19c7f1423/WHITEPAPER_ZOC_Eng.pdf
+[Link to White Paper V1.2.1 (French PDF)] https://github.com/zoctracker/whitepaper-zoc/blob/ecdc7dcf3f9bb656965b063bdf31e3c19c7f1423/WHITEPAPER_ZOC_Fr.pdf
+[Email] contact@zoctracker.com
