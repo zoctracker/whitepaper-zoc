@@ -48,3 +48,10 @@ If you are passionate about the mission of **standardizing network health** and 
 [Link to White Paper V1.2.1 (French PDF)] https://github.com/zoctracker/whitepaper-zoc/blob/ecdc7dcf3f9bb656965b063bdf31e3c19c7f1423/WHITEPAPER_ZOC_Fr.pdf
 
 [Email] contact@zoctracker.com
+
+## ⚖️ Licensing & Paternity
+
+The core intellectual property and the software code are licensed under different terms to maximize rigor and collaboration:
+
+* **Taxonomy & White Paper (Conceptual IP):** Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. This ensures that the ZOC taxonomy and derived metrics are freely available for academic use and citation, reinforcing paternity.
+* **Source Code (ADIP Pipeline):** The code contained in this repository is licensed under the **MIT License**. This liberal license encourages maximum collaboration and adoption by developers and protocols.
