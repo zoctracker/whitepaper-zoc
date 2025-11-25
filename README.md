@@ -9,9 +9,13 @@ Our mission is to establish the Chain Hygiene standard, ensuring the intellectua
 The conceptual core of our work is the ZOC Taxonomy (Zombie On Chain), which acts as a definitive protocol for network health. The execution of the ADIP pipeline (Technical Architecture) is designed solely to validate and maintain the rigor of this protocol.
 
 Taxonomy Evolution
+
 Version	Update Focus	Conceptual Impact
+
 V1.2.1	Methodological Rigor & Data Enrichment	Integrated Code Complexity and Operational Metrics (Bytecode Size, Gas Used) to refine the exclusion logic and ensure scientific integrity.
-V1.2.2	Advanced Analytical Protocol & Systemic Rationale	Reinforced the PI by formalizing the Boosted Aggregation Model and Marginalization for risk scoring. Validated the urgency through the Cardano Split case study.
+
+V1.2.2	Advanced Analytical Protocol & Systemic Rationale	Reinforced the PI by formalizing the Boosted Aggregation Model and Marginalization for risk scoring. Validated the urgency through the Cardano Split case study
+
 ⚙️ Technical Execution: The ADIP Pipeline
 The technical architecture is the proof of concept that validates the feasibility and massive scalability of the ZOC Taxonomy. The €115,000 budget is justified by the need to execute this complex Big Data process.
 
@@ -20,6 +24,7 @@ Pipeline Core	High-performance, concurrent data ingestion.	Built in Go (Golang) 
 Data Source	Full historical data access for mass ingestion.	Alchemy Enhanced APIs are critical to process the entire EVM history archive, validating the initial taxonomy against the complete complete dataset.
 Storage & Query	Analytical database for massive OLAP queries.	ClickHouse is used to host the massive dataset and provide the instantaneous query performance required for generating the ZOC Score.
 Logic Layer	Complex classification, value calculation, and risk scoring.	Python (Web3.py, CoinGecko API) applies Criterion Y, the advanced V1.2.2 exclusion logic, and the Boosted Aggregation Model.
+
 🤝 Founding Team Opportunity
 We are actively recruiting founding talent to execute the MVP plan, which is structured in three clear milestones supported by a dedicated €115,000 budget.
 
