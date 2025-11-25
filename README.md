@@ -1,5 +1,6 @@
 ✍️ ZOC Tracker / Z-Terminal: Codifying and Standardizing Chain Hygiene 🤖
-SLOGAN: Formalize the Failure. Clean the Pipe!
+
+Formalize the Failure. Clean the Pipe!
 
 The ZOC Tracker is the first Analytical Data Ingestion Platform (ADIP) to codify and standardize the taxonomy required to measure Digital Debris—the massive, unquantified accumulation of obsolete code (ZOCs) on the EVM ledger.
 
