@@ -1,42 +1,44 @@
-✍️ ZOC Tracker / Z-Terminal: Codifying and Standardizing Chain Hygiene 🤖
+✍️ ZOC Tracker / Z-Terminal: Dormant Echoes — Codifying the Logic of Systemic Decay 🤖
+Formalize the Failure. Predict the Collapse. Clean the Pipe!
 
-Formalize the Failure. Clean the Pipe!
+The ZOC Tracker is the first Analytical Decentralized Risk Platform (ADIP) designed to establish the Predictive Risk Standard for Chain Hygiene. We quantify the massive, unquantified accumulation of obsolete code (ZOCs) on the ledger by integrating advanced Transformer AI architecture into our analysis.
 
-The ZOC Tracker is the first Analytical Data Ingestion Platform (ADIP) to codify and standardize the taxonomy required to measure Digital Debris—the massive, unquantified accumulation of obsolete code (ZOCs) on the EVM ledger.
+Our mission is to shift the industry from reactive auditing to Proactive Risk Management.
 
-Our mission is to establish the Chain Hygiene standard, ensuring the intellectual paternity of these critical new metrics and protocols.
+🧠 Core Intellectual Property & Standardization (V2.0)
+The conceptual core of our work is the ZOC Taxonomy (Zombie On Chain) V2.0. The execution of the ADIP pipeline is designed solely to validate and maintain the rigor of this protocol.
 
-🧠 Core Intellectual Property & Standardization (V1.2.2)
-The conceptual core of our work is the ZOC Taxonomy (Zombie On Chain), which acts as a definitive protocol for network health. The execution of the ADIP pipeline (Technical Architecture) is designed solely to validate and maintain the rigor of this protocol.
-
-Taxonomy Evolution
+The ZOC Score is now a Predictive Risk Encoding Vector.
 
 Version	Update Focus	Conceptual Impact
 
-V1.2.1	Methodological Rigor & Data Enrichment	Integrated Code Complexity and Operational Metrics (Bytecode Size, Gas Used) to refine the exclusion logic and ensure scientific integrity.
+V1.2.2	Advanced Analytical Protocol & Systemic Rationale	Formalized the Boosted Aggregation Model and Marginalization. Validated urgency through the Cardano Split case study.
 
-V1.2.2	Advanced Analytical Protocol & Systemic Rationale	Reinforced the PI by formalizing the Boosted Aggregation Model and Marginalization for risk scoring. Validated the urgency through the Cardano Split case study
+V2.0 (New)	Transformer Architecture & Systemic Decay	MAJOR UPGRADE: Implemented the Encoder-Decoder model and Probabilistic Modeling to predict disaster occurrence. Added the Architectural Decay criterion to target eUTXO/Off-Chain complexity.
 
-⚙️ Technical Execution: The ADIP Pipeline
-The technical architecture is the proof of concept that validates the feasibility and massive scalability of the ZOC Taxonomy. The €115,000 budget is justified by the need to execute this complex Big Data process.
+⚙️ Technical Execution: Enterprise ADIP (V2.0 Stack)
+The architecture has been upgraded to a production-grade Service Architecture (MVC), designed for High Availability (HA) and Predictive Modeling. The €115,000 budget is justified by the need to execute this complex Big Data process with enterprise-level reliability.
 
 Component	Role	Strategic Rationale (Execution)
-Pipeline Core	High-performance, concurrent data ingestion.	Built in Go (Golang) to execute optimized Batch Inserts and manage Goroutines for rapid EVM history processing.
-Data Source	Full historical data access for mass ingestion.	Alchemy Enhanced APIs are critical to process the entire EVM history archive, validating the initial taxonomy against the complete complete dataset.
-Storage & Query	Analytical database for massive OLAP queries.	ClickHouse is used to host the massive dataset and provide the instantaneous query performance required for generating the ZOC Score.
-Logic Layer	Complex classification, value calculation, and risk scoring.	Python (Web3.py, CoinGecko API) applies Criterion Y, the advanced V1.2.2 exclusion logic, and the Boosted Aggregation Model.
+Model/Encoder (Go)	High-performance data ingestion and Risk Vector Generation.	Built in Go (Golang) to execute optimized Batch Inserts and feed the Encoder component of the Transformer model.
 
-🤝 Founding Team Opportunity
-We are actively recruiting founding talent to execute the MVP plan, which is structured in three clear milestones supported by a dedicated €115,000 budget.
+Storage & Query	Analytical database for massive OLAP queries.	ClickHouse is used to host the massive dataset and provide the instantaneous query performance required for calculating the Probabilistic Score.
 
-URGENT NEED: Lead Go Engineer / Data Delivery Manager
+Logic/Decoder (ML/Stats)	Complex Predictive Modeling and Taxonomy V2.0 Application.	Python/ML applies the Probabilistic Modeling (Poisson/Exponential) and calculates the ZOC Score as a vector output.
 
-If you are passionate about the mission of standardizing network health and the technical challenge of massively scalable EVM data engineering, we want to hear from you.
+Service Layer (API/MVC)	Latency & Availability.	Implements Caching (Redis/Memcached) and Load Balancing (HA) for low-latency API access. Secured by JWT/RBAC.
+Observability (M&O)	Reliability & DRP	Defines SLOs and monitors the entire pipeline health. Confirms the use of Docker Volumes for data persistence.
+
+🤝 Founding Team Opportunity (High-Value Recruitment)
+We are actively recruiting founding talent to execute the MVP plan.
+
+URGENT NEED: Lead Data Architect / Machine Learning Engineer
+
+If you are passionate about standardizing network health and the technical challenge of building a Predictive Risk Architecture based on Transformer Models and Probabilistic Modeling, we want to hear from you.
 
 Join the Fight! Clean the Pipe!
 
-[Link to White Paper V1.2.2 (English PDF)] https://github.com/zoctracker/whitepaper-zoc/blob/359048369a659efa8a3438c6f319c158bddbe3d7/WHITEPAPER_ZOC_Eng.pdf
-
+[Link to White Paper V2.0 (English PDF)] https://github.com/zoctracker/whitepaper-zoc/blob/7c3776f3aacf07c2e65661302414993d99df7733/WHITEPAPER_ZOC_Eng.pdf
 [Email] contact@zoctracker.com
 
 ⚖️ Licensing & Paternity
