@@ -1,48 +1,47 @@
-✍️ ZOC Tracker / Z-Terminal: Dormant Echoes — Codifying the Logic of Systemic Decay 🤖
-Formalize the Failure. Predict the Collapse. Clean the Pipe!
+✍️ ZOC Tracker: The Sovereign & Circular Era (V2.1)
+Audit the Silence. Predict the Decay. Secure the Future.
+The ZOC Tracker is the first Analytical Decentralized Risk Platform (ADIP) designed to establish the global standard for Chain Hygiene and Digital Sustainability. By performing Negative Space Auditing, we quantify the silent proliferation of "Zombies On Chain" (ZOCs)—obsolete, stagnant, and economically captive code.
 
-The ZOC Tracker is the first Analytical Decentralized Risk Platform (ADIP) designed to establish the Predictive Risk Standard for Chain Hygiene. We quantify the massive, unquantified accumulation of obsolete code (ZOCs) on the ledger by integrating advanced Transformer AI architecture into our analysis.
+🧠 Core Innovation: The V2.1 Paradigm Shift
+We are moving beyond simple risk detection toward Digital Circular Economy.
 
-Our mission is to shift the industry from reactive auditing to Proactive Risk Management.
+Predictive Risk Encoding: The ZOC Score is a generative vector derived from a Transformer Encoder-Decoder architecture.
 
-🧠 Core Intellectual Property & Standardization (V2.0)
-The conceptual core of our work is the ZOC Taxonomy (Zombie On Chain) V2.0. The execution of the ADIP pipeline is designed solely to validate and maintain the rigor of this protocol.
+Sterile Footprint Index (SFI): A new KPI measuring the environmental cost (Ecological Debt) of maintaining stagnant data on-chain.
+The Rule of Deletion: Inspired by the principle that the most common error is optimizing what should not exist. We identify code for removal, not just repair.
+Neutralizing Confusion: Our engine isolates hidden variables (like economic captivity) to prevent AI hallucinations and analytical illusions.
+⚙️ Technical Architecture: High-Performance & Sovereign
+The ADIP V2.1 is architected as a production-grade, sovereign service designed for Edge Computing (optimized for Raspberry Pi 5).
 
-The ZOC Score is now a Predictive Risk Encoding Vector.
+Component	Technology	Role
+Ingestion (Encoder)	Go (Golang)	High-performance data ingestion and Risk Vector Generation.
+|
+| Analytics | ClickHouse (OLAP) | Massive dataset hosting with sub-second query performance on 500M+ records.
 
-Version	Update Focus	Conceptual Impact
+|
+| Prediction (Decoder) | Python / ML | Applies Poisson/Exponential Probabilistic Modeling to predict systemic disasters.
 
-V1.2.2	Advanced Analytical Protocol & Systemic Rationale	Formalized the Boosted Aggregation Model and Marginalization. Validated urgency through the Cardano Split case study.
+|
+| Orchestration | n8n / Agents | AI-driven workflows (Gemini 3 Pro) for autonomous decision-making and delivery. |
+| Infrastructure | Docker (Alpine) | Ultra-lightweight images (<50 MB) for secure, sovereign, and air-gapped execution. |
 
-V2.0 (New)	Transformer Architecture & Systemic Decay	MAJOR UPGRADE: Implemented the Encoder-Decoder model and Probabilistic Modeling to predict disaster occurrence. Added the Architectural Decay criterion to target eUTXO/Off-Chain complexity.
+🛡️ Sovereignty & Privacy-by-Design
+ZOC Tracker is built on a Zero-Access Policy.
 
-⚙️ Technical Execution: Enterprise ADIP (V2.0 Stack)
-The architecture has been upgraded to a production-grade Service Architecture (MVC), designed for High Availability (HA) and Predictive Modeling. The €115,000 budget is justified by the need to execute this complex Big Data process with enterprise-level reliability.
+Isolation: Operates exclusively on Public Ledger Data.
 
-Component	Role	Strategic Rationale (Execution)
-Model/Encoder (Go)	High-performance data ingestion and Risk Vector Generation.	Built in Go (Golang) to execute optimized Batch Inserts and feed the Encoder component of the Transformer model.
+Independence: Strictly decoupled from private institutional infrastructures (ERP, CRM).
+Portability: Designed to be deployed locally, ensuring total data sovereignty for the user.
+🌍 The Principle of Substitutability
+We advocate for Circular Blockchain Economics. ZOC Tracker identifies stagnant liquidity and "Zombie" assets to facilitate their consolidation, reducing the global data bloat and energy consumption of decentralized networks.
 
-Storage & Query	Analytical database for massive OLAP queries.	ClickHouse is used to host the massive dataset and provide the instantaneous query performance required for calculating the Probabilistic Score.
+🤝 Join the Fight
+We are building the future of clean, efficient, and sovereign blockchain infrastructures.
 
-Logic/Decoder (ML/Stats)	Complex Predictive Modeling and Taxonomy V2.0 Application.	Python/ML applies the Probabilistic Modeling (Poisson/Exponential) and calculates the ZOC Score as a vector output.
-
-Service Layer (API/MVC)	Latency & Availability.	Implements Caching (Redis/Memcached) and Load Balancing (HA) for low-latency API access. Secured by JWT/RBAC.
-Observability (M&O)	Reliability & DRP	Defines SLOs and monitors the entire pipeline health. Confirms the use of Docker Volumes for data persistence.
-
-🤝 Founding Team Opportunity (High-Value Recruitment)
-We are actively recruiting founding talent to execute the MVP plan.
-
-URGENT NEED: Lead Data Architect / Machine Learning Engineer
-
-If you are passionate about standardizing network health and the technical challenge of building a Predictive Risk Architecture based on Transformer Models and Probabilistic Modeling, we want to hear from you.
-
-Join the Fight! Clean the Pipe!
-
-[Link to White Paper V2.0 (English PDF)] https://github.com/zoctracker/whitepaper-zoc/blob/7c3776f3aacf07c2e65661302414993d99df7733/WHITEPAPER_ZOC_Eng.pdf
-[Email] contact@zoctracker.com
-
+[White Paper V2.1 (English)] [(Update link to your new GitHub file)] https://github.com/zoctracker/whitepaper-zoc/blob/d244a9f4529888ebb5743da87af529727ac56eb5/WHITEPAPER_ZOC_Eng.pdf
+[Contact] contact@zoctracker.com
 ⚖️ Licensing & Paternity
-The core intellectual property and the software code are licensed under different terms to maximize rigor and collaboration:
+Concept & Taxonomy: Licensed under CC BY 4.0 to ensure paternity and academic citation.
 
-Taxonomy & White Paper (Conceptual IP): Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). This ensures that the ZOC taxonomy and derived metrics are freely available for academic use and citation, reinforcing paternity.
-Source Code (ADIP Pipeline): The code contained in this repository is licensed under the MIT License. This liberal license encourages maximum collaboration and adoption by developers and protocols.
+Source Code: Licensed under the MIT License to encourage global adoption and collaboration.
+
